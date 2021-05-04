@@ -1,0 +1,5 @@
+.bloop/*
+.bsp/sbt.json
+.metals/*
+project/*
+target/*
